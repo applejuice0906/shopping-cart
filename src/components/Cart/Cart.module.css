@@ -7,6 +7,12 @@
 .cart h2 {
   font-size: 1.25rem;
   margin: 0.5rem 0;
+  display: flex;
+}
+
+.cart h2 span {
+  display: inline-block;
+  margin-left: auto;
 }
 
 .cart ul {
